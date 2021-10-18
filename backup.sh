@@ -1,4 +1,5 @@
 #!/bin/bash
+cd $(dirname $0) #working directory=file directory
 mkdir root #store state of root
 #mirror relevant files in root
 cp -r /boot root/boot
