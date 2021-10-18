@@ -8,7 +8,7 @@ I am using [_GoFile_](gofile.io) to store my backups. Yes, storing stuff online 
 The script uses the [gofile api](gofile.io/api).
 
 ## Why not use Timeshift?
-+ Why use a bloated gui with hundreds of lines of Vala when the job can be done with 55 lines of bash?
++ Why use a bloated gui with hundreds of lines of Vala when the job can be done with 56 lines of bash?
 + It uses a separate drive! I'm not rich enough for that sort of stuff. I am not going to do partitions either, it's a waste of space.
 + I'm new to Linux, but the OS does seem to expect a more DIY attitude among its users, which I like.
 + A bash script means I know what's happening which makes it more adaptable.
